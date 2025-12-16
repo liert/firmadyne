@@ -7,6 +7,3 @@
 [submodule "sources/scraper"]
 	path = sources/scraper
 	url = https://github.com/firmadyne/scraper.git
-[submodule "sources/libnvram"]
-	path = sources/libnvram
-	url = https://github.com/firmadyne/libnvram.git
